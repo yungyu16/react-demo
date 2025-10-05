@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-box {
+    @apply max-h-full max-w-full border-2 border-blue-900
+}
